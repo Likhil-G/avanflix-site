@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Likhil-G/avanflix-site/static/css/main.8e3857b3.css",
+    "main.js": "/Likhil-G/avanflix-site/static/js/main.53fd6e13.js",
+    "static/media/AVANFLIX_BLACK.png": "/Likhil-G/avanflix-site/static/media/AVANFLIX_BLACK.774692ab53b14e0c29ba.png",
+    "index.html": "/Likhil-G/avanflix-site/index.html",
+    "main.8e3857b3.css.map": "/Likhil-G/avanflix-site/static/css/main.8e3857b3.css.map",
+    "main.53fd6e13.js.map": "/Likhil-G/avanflix-site/static/js/main.53fd6e13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e3857b3.css",
+    "static/js/main.53fd6e13.js"
+  ]
+}
